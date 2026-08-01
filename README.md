@@ -60,12 +60,6 @@
 
 ![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 
-<br/>
-
-<a href="https://github.com/fbourguignon" title="fbourguignon on GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbourguignon&theme=dracula&show_icons=true" />
-</a>
-
 ## Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franklinbourguignon/)
